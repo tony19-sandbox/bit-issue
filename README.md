@@ -1,4 +1,4 @@
-> Demo of bitsrc problem
+> Demo for https://github.com/teambit/bit/issues/1195
 
 I followed the setup instructions at the project setup page in `https://bitsrc.io`:
 
