@@ -1,0 +1,14 @@
+{
+    "env": {
+        "compiler": "bit.envs/bundlers/vue@0.0.3",
+        "tester": "bit.envs/testers/jest@0.0.34"
+    },
+    "dependencies": {},
+    "componentsDefaultDirectory": "components/{namespace}/{name}",
+    "packageManager": "npm",
+    "resolveModules": {
+        "aliases": {
+            "@": "./src"
+        }
+    }
+}
